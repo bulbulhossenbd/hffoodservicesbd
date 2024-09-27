@@ -1068,7 +1068,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
-"categoryLayout":"multi-level",
+"categoryLayout":"sideMenuWithSub",
 "parallax":false,
 "parallaxImageRatio":1.2,
 "showSearch":true,
